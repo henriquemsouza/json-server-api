@@ -1,5 +1,5 @@
 {
-  "name": "heroku-json-server-ready",
+  "name": "poke-json",
   "version": "1.0.0",
   "description": "Heroku Ready-REST API",
   "description": "A sample Node.js app using Express 4",
@@ -17,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jagadeeshthegeek/heroku-json-server-ready"
+    "url": "https://github.com/henriquemsouza/json-server-api"
   },
   "keywords": [
     "node",

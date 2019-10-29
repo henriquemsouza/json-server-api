@@ -1,7 +1,8 @@
 {
-  "name": "poke-json",
+  "name": "heroku-json-server-ready",
   "version": "1.0.0",
-  "description": "Simple json api",
+  "description": "Heroku Ready-REST API",
+  "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
@@ -16,15 +17,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/henriquemsouza/json-server-api"
+    "url": "https://github.com/jagadeeshthegeek/heroku-json-server-ready"
   },
   "keywords": [
     "node",
     "json-server"
   ],
-  "author": "henrique",
+  "author": "Mark Pundsack",
   "contributors": [
-    "henrique"
+    "Jagadeesh"
   ],
   "license": "MIT"
 }

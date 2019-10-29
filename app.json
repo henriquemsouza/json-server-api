@@ -1,0 +1,7 @@
+{
+  "name": "Json Poke REST Server",
+  "description": "REST Server --Heroku Ready",
+  "repository": "https://github.com/henriquemsouza/json-server-api",
+  "logo": "http://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["node", "json-server"]
+}

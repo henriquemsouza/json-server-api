@@ -15,5 +15,5 @@ server.all('*', function (req, res, next) {
 server.use(middlewares);
 server.use(router);
 server.listen(port, function () {
-    console.log('JSON Server is running')
+    console.log(`${port} is running `)
 });
